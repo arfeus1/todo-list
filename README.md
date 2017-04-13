@@ -2,7 +2,7 @@
 With react.js and webpack
 
 #Install
-npm install
+#npm install
 
 #Run
-npm run dev
+#npm run dev
